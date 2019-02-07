@@ -11,3 +11,6 @@ We also have a species Building to monitor the capacity of guests in each of the
 particular store is equal to the maximum capacity, the Guests are made to wait in a Queue until someone leaves the 
 store. We have an attribute called Global Happiness to measure the overall happiness of all the guests depending on how 
 the Guests interact with each other. The code was written using Belief-Desire-Intention(BDI) Architecture.
+
+<img width="602" alt="screenshot 2019-02-07 at 6 49 53 pm" src="https://user-images.githubusercontent.com/26774442/52431816-468f3080-2b09-11e9-886f-361c42f93bba.png">
+
